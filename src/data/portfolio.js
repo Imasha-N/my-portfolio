@@ -52,7 +52,7 @@ export const projects = [
     description:
       "A responsive portfolio built with React, Vite, and Framer Motion featuring smooth animations and a modern glass UI.",
     tags: ["HTML", "css", "PHP","Java Script"],
-    image: "/images/projects/portfolio.svg",
+    image: "/images/projects/image.png",
     link: "#",
     featured: true,
   },
@@ -61,7 +61,7 @@ export const projects = [
     description:
       "Full-stack appointment booking app with calendar integration, real-time availability, and admin dashboard.",
     tags: ["React", "Node.js", "Postgre SQL"],
-    image: "/images/projects/booking-system.svg",
+    image: "/images/projects/smart dairy.png",
     link: "#",
     featured: true,
   },
@@ -75,10 +75,10 @@ export const projects = [
     featured: false,
   },
   {
-    title: "Cosmatic Store UI",
+    title: "Online Smart campus student support management system",
     description:
       "Modern storefront with product filtering, cart management, and checkout flow.",
-    tags: ["React", "Stripe", "Tailwind"],
+    tags: ["React", "Node.js", "Tailwind","Springboot"],
     image: "/images/projects/ecommerce.svg",
     link: "#",
     featured: false,
