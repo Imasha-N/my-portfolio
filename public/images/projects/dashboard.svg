@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#0a0f1a"/>
+  <rect x="32" y="32" width="736" height="56" rx="10" fill="#141c2b"/>
+  <rect x="56" y="52" width="120" height="16" rx="4" fill="#38bdf8"/>
+  <rect x="32" y="112" width="180" height="336" rx="10" fill="#141c2b"/>
+  <rect x="56" y="140" width="132" height="12" rx="4" fill="#334155"/>
+  <rect x="56" y="168" width="100" height="12" rx="4" fill="#818cf8" opacity="0.5"/>
+  <rect x="232" y="112" width="536" height="160" rx="10" fill="#141c2b"/>
+  <polyline points="280,220 340,180 400,200 460,150 520,170 580,130 640,160 700,120" stroke="#38bdf8" stroke-width="3" fill="none"/>
+  <rect x="232" y="296" width="260" height="152" rx="10" fill="#141c2b"/>
+  <rect x="512" y="296" width="256" height="152" rx="10" fill="#141c2b"/>
+  <text x="400" y="455" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="16">Dashboard UI</text>
+</svg>

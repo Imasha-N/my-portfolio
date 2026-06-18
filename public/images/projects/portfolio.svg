@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#0f172a"/>
+  <rect x="40" y="40" width="720" height="48" rx="8" fill="#1e293b"/>
+  <rect x="40" y="110" width="320" height="24" rx="6" fill="#818cf8" opacity="0.8"/>
+  <rect x="40" y="150" width="480" height="14" rx="4" fill="#334155"/>
+  <rect x="40" y="176" width="420" height="14" rx="4" fill="#334155"/>
+  <rect x="40" y="220" width="160" height="40" rx="10" fill="#38bdf8"/>
+  <rect x="220" y="220" width="160" height="40" rx="10" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="40" y="300" width="220" height="140" rx="12" fill="#1e293b"/>
+  <rect x="280" y="300" width="220" height="140" rx="12" fill="#1e293b"/>
+  <rect x="520" y="300" width="220" height="140" rx="12" fill="#1e293b"/>
+  <text x="400" y="455" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="16">Personal Portfolio</text>
+</svg>

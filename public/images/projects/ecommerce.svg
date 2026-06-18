@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#111827"/>
+  <rect x="32" y="32" width="736" height="64" rx="10" fill="#1f2937"/>
+  <rect x="56" y="56" width="100" height="16" rx="4" fill="#c084fc"/>
+  <rect x="600" y="48" width="140" height="32" rx="8" fill="#818cf8" opacity="0.5"/>
+  <rect x="32" y="120" width="200" height="328" rx="10" fill="#1f2937"/>
+  <rect x="56" y="148" width="152" height="120" rx="8" fill="#374151"/>
+  <rect x="56" y="284" width="152" height="12" rx="4" fill="#4b5563"/>
+  <rect x="56" y="308" width="120" height="12" rx="4" fill="#4b5563"/>
+  <rect x="256" y="120" width="240" height="328" rx="10" fill="#1f2937"/>
+  <rect x="280" y="148" width="192" height="140" rx="8" fill="#374151"/>
+  <rect x="280" y="304" width="192" height="12" rx="4" fill="#4b5563"/>
+  <rect x="512" y="120" width="256" height="328" rx="10" fill="#1f2937"/>
+  <rect x="536" y="148" width="208" height="140" rx="8" fill="#374151"/>
+  <rect x="536" y="304" width="160" height="12" rx="4" fill="#4b5563"/>
+  <text x="400" y="455" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="16">E-Commerce Store</text>
+</svg>

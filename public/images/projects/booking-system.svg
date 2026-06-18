@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#0c1222"/>
+  <rect x="32" y="32" width="200" height="416" rx="12" fill="#151d2e"/>
+  <rect x="56" y="64" width="152" height="12" rx="4" fill="#334155"/>
+  <rect x="56" y="96" width="120" height="12" rx="4" fill="#818cf8" opacity="0.6"/>
+  <rect x="56" y="128" width="140" height="12" rx="4" fill="#334155"/>
+  <rect x="256" y="32" width="512" height="416" rx="12" fill="#151d2e"/>
+  <rect x="280" y="64" width="200" height="28" rx="6" fill="#38bdf8" opacity="0.7"/>
+  <rect x="280" y="120" width="464" height="280" rx="10" fill="#1e293b"/>
+  <rect x="300" y="150" width="80" height="60" rx="6" fill="#818cf8" opacity="0.3"/>
+  <rect x="400" y="150" width="80" height="60" rx="6" fill="#38bdf8" opacity="0.3"/>
+  <rect x="500" y="150" width="80" height="60" rx="6" fill="#c084fc" opacity="0.3"/>
+  <text x="400" y="455" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="16">Booking System</text>
+</svg>
