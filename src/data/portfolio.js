@@ -52,7 +52,7 @@ export const projects = [
     description:
       "A responsive portfolio built with React, Vite, and Framer Motion featuring smooth animations and a modern glass UI.",
     tags: ["HTML", "css", "PHP","Java Script"],
-    image: "/images/projects/image.png",
+    image: "/images/projects/park.png",
     link: "#",
     featured: true,
   },
@@ -77,9 +77,9 @@ export const projects = [
   {
     title: "Online Smart campus student support management system",
     description:
-      "Modern storefront with product filtering, cart management, and checkout flow.",
-    tags: ["React", "Node.js", "Tailwind","Springboot"],
-    image: "/images/projects/ecommerce.svg",
+      "A full-stack university resource management platform that streamlines facility and meeting room bookings. Implemented booking workflows, conflict detection, booking status management, and responsive user interfaces.",
+    tags: ["React", "Node.js", "Tailwind","Springboot","MongoDB"],
+    image: "/images/projects/booking.png",
     link: "#",
     featured: false,
   },
