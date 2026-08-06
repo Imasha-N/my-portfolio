@@ -13,10 +13,10 @@ const item = {
 }
 
 const highlights = [
-  { icon: "performance", title: "Performance", desc: "Fast load times & optimized bundles" },
-  { icon: "design", title: "Design", desc: "Pixel-perfect, modern UI aesthetics" },
-  { icon: "responsive", title: "Responsive", desc: "Flawless on every screen size" },
-  { icon: "code", title: "Clean Code", desc: "Maintainable, scalable architecture" },
+  { icon: "performance", title: "Performance", desc: "Optimized, scalable, and high-performance applications" },
+  { icon: "design", title: "Full-Stack Development", desc: "Building complete frontend and backend solutions" },
+  { icon: "responsive", title: "Responsive", desc: "Seamless user experience across all devices" },
+  { icon: "code", title: "Clean Code", desc: "Writing maintainable, secure, and scalable code" },
 ]
 
 function About() {
@@ -33,19 +33,22 @@ function About() {
           About Me
         </motion.span>
         <motion.h2 className="section__title" variants={item}>
-          Turning ideas into <span className="gradient-text">digital experiences</span>
+          Turning ideas into <span className="gradient-text">scalable digital solutions</span>
         </motion.h2>
 
         <div className="about__grid">
           <motion.div className="about__text" variants={item}>
             <p>
-              I&apos;m a frontend developer passionate about building clean, performant,
-              and user-friendly web applications. I specialize in React ecosystems and
-              love crafting interfaces that feel intuitive and delightful.
+              I'm a Full-Stack Developer passionate about building secure, scalable,
+              and user-friendly web applications. I enjoy developing complete
+              solutions by combining modern frontend technologies with robust backend
+              architectures and efficient database design.
             </p>
             <p>
-              From responsive layouts to smooth animations, I focus on every detail
-              to deliver polished products that users enjoy.
+              With hands-on experience in React, Next.js, Spring Boot, Node.js,
+              Express.js, MongoDB, and PostgreSQL, I focus on delivering responsive,
+              high-performance applications with clean, maintainable code and
+              intuitive user experiences.
             </p>
 
             <div className="about__info">

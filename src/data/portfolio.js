@@ -1,20 +1,20 @@
 export const personal = {
   name: "Imasha Nethmini Athapaththu",
-  title: "Frontend Developer",
-  tagline: "I craft fast, beautiful web experiences with React & modern UI.",
+  title: "Full-Stack Developer",
+  tagline: "I build scalable, user-focused web applications using modern frontend and backend technologies.",
   email: "imaaathapattu@gmail.com",
   location: "Sri Lanka",
   photo: "/images/profile/imasha.jpeg",
   social: [
-    { label: "GitHub", url: " https://github.com/Imasha-N", icon: "github" },
+    { label: "GitHub", url: "https://github.com/Imasha-N", icon: "github" },
     { label: "LinkedIn", url: "https://www.linkedin.com/in/imasha-@", icon: "linkedin" },
     { label: "Email", url: "mailto:imaaathapattu@gmail.com", icon: "email" },
   ],
 }
 
 export const cv = {
-  file: "/cv/imasha-cv.pdf",
-  fileName: "Imasha_CV.pdf",
+  file: "/cv/Imasha_Nethmini_Athapaththu_CV.pdf",
+  fileName: "Imasha_Nethmini_Athapaththu_CV.pdf",
   lastUpdated: "June 2026",
   highlights: [
     {
@@ -47,60 +47,53 @@ export const skills = [
 ]
 
 export const projects = [
+   
   {
-    title: "Online Park Reservation System",
+    title: "Smart Dairy - Inventory Management System",
     description:
-      "A responsive portfolio built with React, Vite, and Framer Motion featuring smooth animations and a modern glass UI.",
-    tags: ["HTML", "css", "PHP","Java Script"],
+      "Developed the Inventory Management module for a dairy production management system, including inventory tracking, warehouse management, stock monitoring, REST API development, and PostgreSQL integration.",
+    tags: ["React", "Node.js", "Express", "PostgreSQL", "PERN"],
+    image: "/images/projects/smart dairy.png",
+    link: "https://github.com/Imasha-N/ITProject.git",
+    featured: true,
+  },
+  {
+    title: "UNI NEXUS - Tutor Booking Management System",
+    description:
+      "Developed the Tutor Booking Management module with tutor slot management, student booking, conflict prevention, waitlist management, JWT authentication, and REST API development.",
+    tags: ["Next.js", "Prisma", "PostgreSQL", "Tailwind CSS", "JWT"],
+    image: "/images/projects/Uni Nexus.png",
+    link: "https://github.com/Imasha-N/Uni_nexus.git",
+    featured: true,
+  },
+  {
+    title: "FLEXIT - Smart Campus Operations Hub",
+    description:
+      "Developed the Booking Management module with booking creation, approval, rejection, cancellation, conflict detection, secure REST APIs, JWT authentication, and MongoDB integration.",
+    tags: ["React", "Spring Boot", "Java", "MongoDB", "REST API", "JWT"],
+    image: "/images/projects/booking.png",
+    link: "https://github.com/PrabodhaLakshan/it3030-paf-2026-smart-campus-3Y1S-WD-38.git",
+    featured: true,
+  },
+  {
+    title: "Tintora - Cosmetics Mobile App UI/UX Design",
+    description:
+      "Designed a modern cosmetics shopping mobile application with wireframes, high-fidelity UI screens, reusable components, and interactive prototypes using Figma.",
+    tags: ["Figma", "UI/UX Design", "Wireframing", "Prototyping"],
+    image: "/images/projects/tintora.png",
+    link: "https://www.figma.com/proto/ZXQSD4z0jcZxk0gGtb2PKj/Untitled?node-id=0-1&t=7fynMGeuugGVufeZ-1",
+    featured: false,
+  },
+  {
+    title: "MotorCastle - Online Vehicle Park Reservation Management System",
+    description:
+      "Developed a park reservation management module with slot booking, reservation management, and MySQL database integration for efficient visitor parking management.",
+    tags: ["HTML", "CSS", "PHP", "MySQL"],
     image: "/images/projects/park.png",
     link: "#",
     featured: true,
   },
-  {
-    title: "Smart Dairy Yogurt Inventory and Warehouse Management System",
-    description:
-      "Full-stack appointment booking app with calendar integration, real-time availability, and admin dashboard.",
-    tags: ["React", "Node.js", "Postgre SQL"],
-    image: "/images/projects/smart dairy.png",
-    link: "#",
-    featured: true,
-  },
-  {
-    title: "Online Study Support System",
-    description:
-      "Analytics dashboard with interactive charts, dark mode, and a component-driven design system.",
-    tags: ["React", "CSS", "Charts"],
-    image: "/images/projects/dashboard.svg",
-    link: "#",
-    featured: false,
-  },
-  {
-    title: "Online Smart campus student support management system",
-    description:
-      "A full-stack university resource management platform that streamlines facility and meeting room bookings. Implemented booking workflows, conflict detection, booking status management, and responsive user interfaces.",
-    tags: ["React", "Node.js", "Tailwind","Springboot","MongoDB"],
-    image: "/images/projects/booking.png",
-    link: "#",
-    featured: false,
-  },
-    {
-    title: "Cosmatic Store UI",
-    description:
-      "Modern storefront with product filtering, cart management, and checkout flow.",
-    tags: ["React", "Stripe", "Tailwind"],
-    image: "/images/projects/ecommerce.svg",
-    link: "#",
-    featured: false,
-  },
-    {
-    title: "Cosmatic Store UI",
-    description:
-      "Modern storefront with product filtering, cart management, and checkout flow.",
-    tags: ["React", "Stripe", "Tailwind"],
-    image: "/images/projects/ecommerce.svg",
-    link: "#",
-    featured: false,
-  },
+
 ]
 
 export const navLinks = [
