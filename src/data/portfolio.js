@@ -13,8 +13,8 @@ export const personal = {
 }
 
 export const cv = {
-  file: "/cv/Imasha_Nethmini_Athapaththu_CV.pdf",
-  fileName: "Imasha_Nethmini_Athapaththu_CV.pdf",
+  file: "/cv/Imasha_Nethmini_Athapattu_CV.pdf",
+  fileName: "Imasha_Nethmini_Athapattu_CV.pdf",
   lastUpdated: "June 2026",
   highlights: [
     {
