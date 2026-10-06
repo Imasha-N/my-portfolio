@@ -47,7 +47,6 @@ export const skills = [
 ]
 
 export const projects = [
-   
   {
     title: "Smart Dairy - Inventory Management System",
     description:
@@ -55,6 +54,7 @@ export const projects = [
     tags: ["React", "Node.js", "Express", "PostgreSQL", "PERN"],
     image: "/images/projects/smart dairy.png",
     link: "https://github.com/Imasha-N/ITProject.git",
+    demo: "/videos/smart-dairy-demo.mp4",
     featured: true,
   },
   {
@@ -64,6 +64,7 @@ export const projects = [
     tags: ["Next.js", "Prisma", "PostgreSQL", "Tailwind CSS", "JWT"],
     image: "/images/projects/Uni Nexus.png",
     link: "https://github.com/Imasha-N/Uni_nexus.git",
+    demo: "/videos/uni-nexus-demo.mp4",
     featured: true,
   },
   {
@@ -73,6 +74,7 @@ export const projects = [
     tags: ["React", "Spring Boot", "Java", "MongoDB", "REST API", "JWT"],
     image: "/images/projects/booking.png",
     link: "https://github.com/PrabodhaLakshan/it3030-paf-2026-smart-campus-3Y1S-WD-38.git",
+    demo: "/videos/flexit-demo.mp4",
     featured: true,
   },
   {
@@ -82,6 +84,7 @@ export const projects = [
     tags: ["Figma", "UI/UX Design", "Wireframing", "Prototyping"],
     image: "/images/projects/tintora.png",
     link: "https://www.figma.com/proto/ZXQSD4z0jcZxk0gGtb2PKj/Untitled?node-id=0-1&t=7fynMGeuugGVufeZ-1",
+    demo: "/videos/tintora-demo.mp4",
     featured: false,
   },
   {
@@ -93,7 +96,6 @@ export const projects = [
     link: "#",
     featured: true,
   },
-
 ]
 
 export const navLinks = [
