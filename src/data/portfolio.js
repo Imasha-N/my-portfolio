@@ -7,7 +7,7 @@ export const personal = {
   photo: "/images/profile/imasha.jpeg",
   social: [
     { label: "GitHub", url: "https://github.com/Imasha-N", icon: "github" },
-    { label: "LinkedIn", url: "https://www.linkedin.com/in/imasha-@", icon: "linkedin" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/imasha-athapaththu-36374a246", icon: "linkedin" },
     { label: "Email", url: "mailto:imaaathapattu@gmail.com", icon: "email" },
   ],
 }
